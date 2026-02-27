@@ -1,4 +1,4 @@
-# $${\color{red}The-Horse-and-the-Infant}$$
+# $${\color{red}The Horse and the Infant}$$
 
 <img width="1000" height="1000" alt="the horse and the infant" src="https://github.com/user-attachments/assets/b49f6742-c824-43d5-a6f7-c32c93ec02ad" />
 
