@@ -1,7 +1,6 @@
 # The-Horse-and-the-Infant
 
-![<img width="1000" height="1000" alt="the horse and the infant" src="https://github.com/user-attachments/assets/b49f6742-c824-43d5-a6f7-c32c93ec02ad" />
-]
+<img width="1000" height="1000" alt="the horse and the infant" src="https://github.com/user-attachments/assets/b49f6742-c824-43d5-a6f7-c32c93ec02ad" />
 
 Alright, my brothers, listen closely
 Tonight, we make the Trojans pay
